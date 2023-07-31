@@ -1,10 +1,28 @@
-div{
-    width: 100%;
-}
-
-
-.sumario:hover{
-    cursor: pointer;
-}
-
-
+body {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .jumbotron {
+    background-color: #001f3f;
+    color: #fff;
+  }
+  
+  .navbar {
+    background-color: #001f3f;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: #001f3f;
+  }
+  
+  .carousel-indicators li {
+    background-color: #001f3f;
+  }
+  
+  .testimonial {
+    background-color: #001f3f;
+    color: #fff;
+  }
+  
